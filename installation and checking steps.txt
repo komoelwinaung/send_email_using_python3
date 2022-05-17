@@ -1,0 +1,12 @@
+Idea Credit to Hands-On Enterprise Automation with Python!
+
+First, we will need to install and make sure python3 configuration.
+
+Second, Gmail account setting, 'Security' -> Less secure app access -> On. (That will be vulnerable as per Google suggestion)
+
+Third, also need to check name of python config file.
+Avoid to pay config file to `email.py`, that will face error.
+
+In this tutorial, you can see `email_test_file.py`.
+
+Run it and have fun!!
