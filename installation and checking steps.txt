@@ -9,4 +9,4 @@ Avoid to pay config file to `email.py`, that will face error.
 
 In this tutorial, you can see `email_test_file.py`.
 
-Run it and have fun!!
+Run it and have fun!! 2APR
